@@ -1,0 +1,14 @@
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.exe
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.deps.json
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.dll
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.pdb
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.csproj.AssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.dll
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.pdb
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.genruntimeconfig.cache

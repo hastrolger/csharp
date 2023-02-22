@@ -1,0 +1,15 @@
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.deps.json
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.dll
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.pdb
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.csproj.AssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.dll
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\refint\ToDo.dll
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.pdb
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ref\ToDo.dll
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.exe
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Dev\csharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.genruntimeconfig.cache
